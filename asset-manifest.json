@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e2e8706.css",
-    "main.js": "/static/js/main.a3c13461.js",
-    "static/media/spiderman-cover.jpg": "/static/media/spiderman-cover.afa570da5a7651bc1753.jpg",
-    "static/media/main.jpg": "/static/media/main.4a912a242568343fea42.jpg",
-    "static/media/everything.jpg": "/static/media/everything.ed96eaa84be6674ac60c.jpg",
-    "static/media/avenger.jpg": "/static/media/avenger.e6f6d831ff7250a20695.jpg",
-    "static/media/robinhood.jpg": "/static/media/robinhood.a811f3623395b8d5c5fd.jpg",
-    "static/media/batman.jpg": "/static/media/batman.d63ba254a96468382e2b.jpg",
-    "static/media/lightyear.jpg": "/static/media/lightyear.881da96e35afae963ad1.jpg",
-    "static/media/joker.jpg": "/static/media/joker.4231e28eb1f27552d08f.jpg",
-    "static/media/morbius.jpg": "/static/media/morbius.c2de5c653057f3da7c51.jpg",
-    "static/media/antman.jpg": "/static/media/antman.b77f4ae26e0b3d82058c.jpg",
-    "static/media/infinite.jpg": "/static/media/infinite.6e1272e9a944932e5963.jpg",
-    "static/media/superman.jpg": "/static/media/superman.1f90bb661b43de78b7b8.jpg",
-    "static/media/dune.jpg": "/static/media/dune.bf1854be9390dd5f2921.jpg",
-    "index.html": "/index.html",
-    "main.4e2e8706.css.map": "/static/css/main.4e2e8706.css.map",
-    "main.a3c13461.js.map": "/static/js/main.a3c13461.js.map"
+    "main.css": "/movie-midnight/static/css/main.ebc3d74f.css",
+    "main.js": "/movie-midnight/static/js/main.6a4ed77a.js",
+    "static/media/spiderman-cover.jpg": "/movie-midnight/static/media/spiderman-cover.afa570da5a7651bc1753.jpg",
+    "static/media/main.jpg": "/movie-midnight/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/everything.jpg": "/movie-midnight/static/media/everything.ed96eaa84be6674ac60c.jpg",
+    "static/media/avenger.jpg": "/movie-midnight/static/media/avenger.e6f6d831ff7250a20695.jpg",
+    "static/media/robinhood.jpg": "/movie-midnight/static/media/robinhood.a811f3623395b8d5c5fd.jpg",
+    "static/media/batman.jpg": "/movie-midnight/static/media/batman.d63ba254a96468382e2b.jpg",
+    "static/media/lightyear.jpg": "/movie-midnight/static/media/lightyear.881da96e35afae963ad1.jpg",
+    "static/media/joker.jpg": "/movie-midnight/static/media/joker.4231e28eb1f27552d08f.jpg",
+    "static/media/morbius.jpg": "/movie-midnight/static/media/morbius.c2de5c653057f3da7c51.jpg",
+    "static/media/antman.jpg": "/movie-midnight/static/media/antman.b77f4ae26e0b3d82058c.jpg",
+    "static/media/infinite.jpg": "/movie-midnight/static/media/infinite.6e1272e9a944932e5963.jpg",
+    "static/media/superman.jpg": "/movie-midnight/static/media/superman.1f90bb661b43de78b7b8.jpg",
+    "static/media/dune.jpg": "/movie-midnight/static/media/dune.bf1854be9390dd5f2921.jpg",
+    "index.html": "/movie-midnight/index.html",
+    "main.ebc3d74f.css.map": "/movie-midnight/static/css/main.ebc3d74f.css.map",
+    "main.6a4ed77a.js.map": "/movie-midnight/static/js/main.6a4ed77a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e2e8706.css",
-    "static/js/main.a3c13461.js"
+    "static/css/main.ebc3d74f.css",
+    "static/js/main.6a4ed77a.js"
   ]
 }
