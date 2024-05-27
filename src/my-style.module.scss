@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=REM:ital,wght@0,100..900;1,100..900&display=swap");
+
+$myColor: red;
+$gold: #ffb338;
+$light-shadow: #77571d;
+$dark-shadow: #3e2904;
+
+* {
+  font-family: "REM", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.iniWarnaMerah {
+  color: $myColor;
+}
+.HeroSection {
+  height: 100vh;
+  background: url(./assets/images/bg/main.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+// Text Style
+// reference
+// https://codepen.io/TajShireen/pen/LYyOzJL
+.wrapper {
+  display: grid;
+  // background-color: #ffb338;
+  grid-template-areas: "overlap";
+  place-content: end center;
+  text-transform: uppercase;
+  height: 55vh;
+  cursor: default;
+}
+.wrapper > div {
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: #363833;
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-size: clamp(3em, 18vw, 15rem);
+  grid-area: overlap;
+  letter-spacing: 1px;
+  -webkit-text-stroke: 4px transparent;
+}
+div.bg {
+  background-image: repeating-linear-gradient(
+    105deg,
+    $gold 0%,
+    $dark-shadow 5%,
+    $gold 12%
+  );
+  color: transparent;
+  filter: drop-shadow(5px 15px 15px black);
+  transform: scaleY(1.05);
+  transform-origin: top;
+}
+div.fg {
+  background-image: repeating-linear-gradient(
+    5deg,
+    $gold 0%,
+    $light-shadow 23%,
+    $gold 31%
+  );
+  color: #1e2127;
+  transform: scale(1);
+}
+
+.TrendingSection {
+  background-color: #140808;
+}
+
+.Recently {
+  background-color: #321414;
+}
+
+@media (max-width: 576px) {
+  .wrapper {
+    height: 35vh;
+  }
+}
